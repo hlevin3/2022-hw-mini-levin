@@ -1,0 +1,5 @@
+Report
+
+ This project enabled the set up and use of the Raspberry Pi Pico. First, the correct software is required to be able to create and upload files to the Pico. This microcontroller requires a 32-bit ARM C/C++ cross-compiler. Specifically, for Windows systems, an option for this is to use Windows Subsystem for Linux (WSL), which I used. After setting up the compiler and then building the given LED fade file, it can be uploaded to the Pico. 
+ 
+ I have uploaded a file to my GitHub of the Pico's light fading from the given script. I recorded about 1.1 seconds between each peak of brightness. I then decided that to alter the code I would make the LED flash my name (Hal) tranlated into Morse code. I have uploaded the .c file that I made to run this and have uploaded a video of it working once I had uploaded it to the Pico. This project was important to famaliarize us with the Raspberry Pi Pico as well as with microcontrollers in general. Through uploading the code to the Pico, I have learned the basic process of using this microcontroller.  
